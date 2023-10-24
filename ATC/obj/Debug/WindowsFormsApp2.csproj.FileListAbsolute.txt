@@ -1,0 +1,33 @@
+C:\Users\shawt\RiderProjects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\shawt\RiderProjects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\shawt\RiderProjects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\shawt\RiderProjects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\shawt\RiderProjects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\shawt\RiderProjects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\shawt\RiderProjects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\shawt\RiderProjects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\shawt\RiderProjects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\shawt\RiderProjects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\shawt\RiderProjects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Register.resources
+C:\Users\shawt\RiderProjects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+C:\Users\shawt\RiderProjects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Main.resources
+C:\Users\shawt\RiderProjects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Call.resources
+C:\Users\shawt\RiderProjects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RefillBalance.resources
+C:\Users\shawt\RiderProjects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Bill.resources
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Bill.resources
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Call.resources
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Main.resources
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RefillBalance.resources
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Register.resources
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+G:\Другие компьютеры\Ноутбук\education\КПО\lab-4\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AdminPanel.resources
